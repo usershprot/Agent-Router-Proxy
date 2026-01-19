@@ -6,7 +6,7 @@ import sys
 PORT = 8888
 TARGET_URL = "https://agentrouter.org/v1"
 
-API_KEY = "sk-0bzUK5pKrfvsiN7WRleAr2dcJxKWqAz3IHFrYvjb9ymv7cAt
+API_KEY ="sk-0bzUK5pKrfvsiN7WRleAr2dcJxKWqAz3IHFrYvjb9ymv7cAt
 
 class ProxyHandler(http.server.SimpleHTTPRequestHandler):
     def do_POST(self):
