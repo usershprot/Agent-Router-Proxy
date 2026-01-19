@@ -6,7 +6,7 @@
       "name": "AgentRouter",
       "options": {
         "baseURL": "http://127.0.0.1:8888/v1",
-        "apiKey": "sk-............." 
+        "apiKey": "sk-0bzUK5pKrfvsiN7WRleAr2dcJxKWqAz3IHFrYvjb9ymv7cAt" 
       },
       "models": {
         "deepseek-v3.2": {
